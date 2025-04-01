@@ -3,3 +3,17 @@
 body{
     background: white;
 }
+
+.container {
+    padding: 310px 0;
+    text-align: center;
+    flex-direction: column;
+}
+h1 {
+    color:black;
+}
+
+#excuse {
+    color:black;
+    text-decoration:none;
+}
